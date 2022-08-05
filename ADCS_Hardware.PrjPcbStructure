@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=CoilDriver|SchDesignator=CoilDriver|FileName=H_bridge.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=H_bridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
